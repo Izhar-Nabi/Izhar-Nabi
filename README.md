@@ -1,61 +1,52 @@
-## Hi, I'm Izhar-Nabi! 👋
+<h1 align="center">Hi 👋, I'm Izhar-Nabi</h1>
+<h3 align="center">A passionate Coder...</h3>
 
-<a href="https://twitter.com/IzharZour">
-  <img align="left" alt="Izhar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/izhar-zour-b15b151a9/>
-  <img align="left" alt="Izhar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Izhar-Nabi">
-  <img align="left" alt="Izhar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=izhar-nabi&label=Profile%20views&color=0e75b6&style=flat" alt="izhar-nabi" /> </p>
 
-<a href="https://instagram.com/Izhar Zour/">
-  <img align="left" alt="Izhar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/Izhar Zour/">
-  <img align="left" alt="Izhar's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/Izhar Zour/">
-  <img align="left" alt="Izhar's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izhar-nabi" alt="izhar-nabi" /></a> </p>
 
-<br/>
-<br/>
+<p align="left"> <a href="https://twitter.com/izharzour" target="blank"><img src="https://img.shields.io/twitter/follow/izharzour?logo=twitter&style=for-the-badge" alt="izharzour" /></a> </p>
 
-- 🔭 I’m currently working on C++ & JAVA.
--  I am Interested In JAVA Language....
-- 🌱 I’m currently learning more about JAVA.
-- 👯 I’m looking to collaborate on [Youtube].
-- 🤔 I’m looking for help in growing my [Twitter](https://twitter.com/IzharZour) reach.
-- 💬 Ask me about JAVA or any tech related stuff.
-- 📫 How to reach me: [Twitter - @IzharZour](https://twitter.com/IzharZour).
-- 😄 Pronouns: He/His.
-![](https://komarev.com/ghpvc/?username=Izhar-Nabi&color=blueviolet&label=Profile+Views)
-[![Twitter: IzharZour](https://twitter.com/IzharZour)]
-[![Linkedin: Izhar Zour](https://www.linkedin.com/in/izhar-zour-b15b151a9/)](https://www.linkedin.com/in/izhar-zour-b15b151a9/)
-[![GitHub: Izhar-Nabi](https://img.shields.io/github/followers/Izhar-Nabi?label=follow&style=social)](https://github.com/iampawan)
+- 🔭 I’m currently working on **C++ & JAVA**
 
+- 🌱 I’m currently learning **Java & Java Script**
 
-**Languages and Tools:**  
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCloWf62pykW5mOTK_mK-YIA)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> 
+- 🤝 I’m looking for help To **Teaches & Learning**
 
-<hr>
-<center>
-<a href="https://github.com/Izhar-Nabi">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Izhar-Nabi&show_icons=true&theme=dark&line_height=40" alt="Izhar's github stats"/>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izhar-Nabi&langs_count=5&theme=dark" alt="Izhar's github stats"/>
-</a>
-<hr>
+- 👨‍💻 All of my projects are available at [https://github.com/Izhar-Nabi?tab=projects](https://github.com/Izhar-Nabi?tab=projects)
 
-<div align="center">
+- 💬 Ask me about **@IzharZour**
 
-### Show some ❤️ by starring some of the repositories!
+- 📫 How to reach me **izharzour786@gmail.com**
 
-</div>
+- 📄 Know about my experiences [file:///H:/Izhar%20CV-converted.pdf](file:///H:/Izhar%20CV-converted.pdf)
+
+- ⚡ Fun fact **Comedy...**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/izhar zour" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="izhar zour" height="30" width="40" /></a>
+<a href="https://twitter.com/izharzour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="izharzour" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/izhar zour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="izhar zour" height="30" width="40" /></a>
+<a href="https://fb.com/izhar zour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="izhar zour" height="30" width="40" /></a>
+<a href="https://instagram.com/izhar zour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="izhar zour" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/izhar zour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="izhar zour" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/❤️❤️Stay With Code❤️❤️"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="❤️❤️Stay With Code❤️❤️" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=izhar-nabi&show_icons=true&locale=en&layout=compact" alt="izhar-nabi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izhar-nabi&show_icons=true&locale=en" alt="izhar-nabi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izhar-nabi&" alt="izhar-nabi" /></p>
