@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/izharzour" target="blank"><img src="https://img.shields.io/twitter/follow/izharzour?logo=twitter&style=for-the-badge" alt="izharzour" /></a> </p>
 
-- 🔭 I’m currently working on **C++ & JAVA**
+- 🔭 I’m currently working on **ML and NLP**
 
-- 🌱 I’m currently learning **Java & Java Script**
+- 🌱 I’m currently learning **Spacy and NLTK**
 
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCloWf62pykW5mOTK_mK-YIA)
 
